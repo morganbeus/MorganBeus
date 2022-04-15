@@ -1,0 +1,41 @@
+/*Indexstyles*/
+.body {
+    background-color: lavenderblush;
+}
+
+.homepagefont {
+    color: lavenderblush;
+}
+
+.button{
+    background-color: #810534;
+    border: none;
+}
+
+/*Aboutmestyles*/
+.aboutmecolor {
+    background-color:#fffdd0;
+}
+.aboutmetitle {
+    color:#fffdd0;
+}
+
+.aboutmeheaders {
+    text-align: center;
+}
+
+.background {
+    text-align: center;
+}
+
+/*Resumestyles*/
+
+.resumecolor {
+    background-color: rgb(221, 241, 247);
+}
+.anchors {
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
